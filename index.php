@@ -1,4 +1,5 @@
-<?php get_header();?>   <!--  Tells WordPress to include header.php -->    
+<?php get_header();?>   <!--  Tells WordPress to include header.php -->
+
     <section class="container-fluid aboutbg text-center">
         <div class="container">
 
@@ -23,7 +24,7 @@
 
         <div class="row">
             <div class="col-md-4">
-                <img class="img-fluid" src="http://206.189.45.97/~mesh1/wp-content/themes/starter_for_josh_site/images/port1.jpg" alt="woman">
+                <img class="img-fluid" src="http://170.187.231.66/~mesh1/wp-content/themes/starter_for_josh_site/images/port1.jpg">
                 <h4 class="article-title">A PORTRAIT</h4>
                 <p class="date">Friday March 10. 2022</p>
                 <p class="article-p">STS has never been shy of seeking new terrains of investigation. More and more STS
@@ -36,7 +37,10 @@
             </div>
 
             <div class="col-md-4">
-                <img class="img-fluid" src="http://206.189.45.97/~mesh1/wp-content/themes/starter_for_josh_site/images/port1.jpg" alt="model">
+                <img class="img-fluid" src="
+
+                http://170.187.231.66/~mesh1/wp-content/themes/starter_for_josh_site/images/port2.jpg">
+
                 <h4 class="article-title">A PORTRAIT</h4>
                 <p class="date">Friday March 10. 2022</p>
                 <p class="article-p">STS has never been shy of seeking new terrains of investigation. More and more STS
@@ -49,7 +53,10 @@
             </div>
 
             <div class="col-md-4">
-                <img class="img-fluid" src="http://206.189.45.97/~mesh1/wp-content/themes/starter_for_josh_site/images/port1.jpg" alt="games ">
+                <img class="img-fluid" src="
+
+                http://170.187.231.66/~mesh1/wp-content/themes/starter_for_josh_site/images/port3.jpg">
+
                 <h4>A PORTRAIT</h4>
                 <p>Friday March 10. 2022</p>
                 <p>STS has never been shy of seeking new terrains of investigation. More and more STS scholars are
@@ -64,3 +71,4 @@
 
     </section>
     <?php get_footer();?>   <!-- Tells WordPress to include footer.php   -->
+   
