@@ -33,7 +33,7 @@
            echo ' - page '. $paged; }
      ?>
 </title>
-meta name="description" content="<?php bloginfo('description'); ?>">
+<meta name="description" content="<?php bloginfo('description'); ?>">
 <link rel="shortcut icon" href="<?php bloginfo('template_directory'); ?>/images/favicon.ico">
 
 </head>
@@ -45,7 +45,7 @@ meta name="description" content="<?php bloginfo('description'); ?>">
 
             <nav class="navbar navbar-expand-md navbar-dark">
                 <!-- Brand -->
-                <a class="navbar-brand" href="#"><span class="josh">JOSH</span><span class="orange">WHITKIN</span></a>
+                <a class="navbar-brand" href="#"><span class="josh">JOSHhosh</span><span class="orange">WHITKIN</span></a>
 
                 <!-- Toggler/collapsibe Button -->
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
