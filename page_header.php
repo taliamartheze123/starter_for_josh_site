@@ -45,7 +45,7 @@ meta name="description" content="<?php bloginfo('description'); ?>">
 
             <nav class="navbar navbar-expand-md navbar-dark">
                 <!-- Brand -->
-                <a class="navbar-brand" href="#"><span class="josh">JOSHheh</span><span class="witkin">WHITKIN</span></a>
+                <a class="navbar-brand" href="#"><span class="josh">JOSH</span><span class="orange">WHITKIN</span></a>
 
                 <!-- Toggler/collapsibe Button -->
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
