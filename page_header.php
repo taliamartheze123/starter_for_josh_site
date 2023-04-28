@@ -59,7 +59,7 @@
                             <a class="nav-link" href="#">HOME</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">PROJECTS</a>
+                            <a class="nav-link" href="#">PROJECTShe</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">CV</a>
