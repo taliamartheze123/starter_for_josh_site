@@ -14,7 +14,5 @@
                 </div><!-- row -->
             </div><!-- container  -->
     </footer>
-    <?php get_footer();?>   <!-- Tells WordPress to include footer.php   -->
-</body>
 
-</html>
+    <?php get_footer();?>   <!-- Tells WordPress to include footer.php   -->
