@@ -34,7 +34,7 @@
             </div>
 
             <div class="col-md-4">
-            <img class="img-fluid" alt=“portait” src="<?php the_field('Modelimage');?>">
+            <img class="img-fluid" alt=“model” src="<?php the_field('modelimage');?>">
 
             <h4 class="article-title"><?php the_field('modeltitle'); ?></h4>
             <p class="date" ><?php the_field('modeldate'); ?></p>
@@ -44,7 +44,7 @@
             </div>
 
             <div class="col-md-4">
-            <img class="img-fluid" alt=“portait” src="<?php the_field('leafimage');?>">
+            <img class="img-fluid" alt=“leaf” src="<?php the_field('leafimage');?>">
 
             <h4 class="article-title"><?php the_field('leaftitle'); ?></h4>
             <p class="date" ><?php the_field('leafdate'); ?></p>
