@@ -34,30 +34,24 @@
             </div>
 
             <div class="col-md-4">
-                <img class="img-fluid" src="http://170.187.231.66/~mesh14/wp-content/themes/starter_for_josh_site/images/model.jpg">
+            <img class="img-fluid" alt=“portait” src="<?php the_field('Modelimage');?>">
 
-                <h4 class="article-title">A PORTRAIT</h4>
-                <p class="date">Friday March 10. 2022</p>
-                <p class="article-p">STS has never been shy of seeking new terrains of investigation. More and more STS
-                    scholars are
-                    sr=tarting to explore and invervence in the arts. This object of study brings new challenges and
-                    opportunities that we want to explore in this session. We would like to gather first of all simply
-                    new kinds of knowledge arising from STS study of the arts.</p>
+            <h4 class="article-title"><?php the_field('modeltitle'); ?></h4>
+            <p class="date" ><?php the_field('modeldate'); ?></p>
+            <p class="article-p"><?php the_field('modelexcerpt'); ?> </p>
 
-                <a class="readmore" href="" #>CONTINUE READING</a>
+            <a href="<?php the_field('modelreadmore'); ?>" class="readmore">CONTINUE READING</a>
             </div>
 
             <div class="col-md-4">
-                <img class="img-fluid" src="http://170.187.231.66/~mesh14/wp-content/themes/starter_for_josh_site/images/games design.jpg">
+            <img class="img-fluid" alt=“portait” src="<?php the_field('leafimage');?>">
 
-                <h4>A PORTRAIT</h4>
-                <p>Friday March 10. 2022</p>
-                <p>STS has never been shy of seeking new terrains of investigation. More and more STS scholars are
-                    sr=tarting to explore and invervence in the arts. This object of study brings new challenges and
-                    opportunities that we want to explore in this session. We would like to gather first of all simply
-                    new kinds of knowledge arising from STS study of the arts.</p>
+            <h4 class="article-title"><?php the_field('leaftitle'); ?></h4>
+            <p class="date" ><?php the_field('leafdate'); ?></p>
+            <p class="article-p"><?php the_field('leafexcerpt'); ?> </p>
 
-                <a class="readmore" href="" #>CONTINUE READING</a>
+            <a href="<?php the_field('leafreadmore'); ?>" class="readmore">CONTINUE READING</a>
+            </div>
 
             </div>
         </div><!-- row -->
