@@ -77,6 +77,4 @@ wp_nav_menu( array(
          
 
 
-    </header>
-
-   
+</header>
