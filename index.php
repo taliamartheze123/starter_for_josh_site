@@ -24,7 +24,7 @@
 
         <div class="row">
             <div class="col-md-4">
-                <img class="img-fluid" src="http://170.187.231.66/~mesh14/ wp-content/themes/starter_for_josh_site/images/portrait.jpg">
+                <img class="img-fluid" src="http://170.187.231.66/~mesh14/wp-content/themes/starter_for_josh_site/images/portrait.jpg">
                 <h4 class="article-title">A PORTRAIT</h4>
                 <p class="date">Friday March 10. 2022</p>
                 <p class="article-p">STS has never been shy of seeking new terrains of investigation. More and more STS
@@ -37,9 +37,7 @@
             </div>
 
             <div class="col-md-4">
-                <img class="img-fluid" src="
-
-                ftp://170.187.231.66/~mesh14/">
+                <img class="img-fluid" src="http://170.187.231.66/~mesh14/wp-content/themes/starter_for_josh_site/images/game.jpg"> 
 
                 <h4 class="article-title">A PORTRAIT</h4>
                 <p class="date">Friday March 10. 2022</p>
@@ -53,9 +51,7 @@
             </div>
 
             <div class="col-md-4">
-                <img class="img-fluid" src="
-
-                ftp://170.187.231.66/~mesh14/">
+                <img class="img-fluid" src="http://170.187.231.66/~mesh14/wp-content/themes/starter_for_josh_site/images/game.jpg">
 
                 <h4>A PORTRAIT</h4>
                 <p>Friday March 10. 2022</p>
