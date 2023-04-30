@@ -40,7 +40,7 @@
 
 <body>
 
-    <header class="container-fluid smallpage-bg">
+    <header class="container-fluid bg1">
         <div class="container">
 
             <nav class="navbar navbar-expand-md navbar-dark">
