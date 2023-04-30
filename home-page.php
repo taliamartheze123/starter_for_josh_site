@@ -20,7 +20,7 @@
 
     <section class="container-fluid articlebg">
         <div class="container">
-            <h3 class="text-center">"><?php the_field('titleforarticles'); ?></h3></h3>
+            <h3 class="text-center"><?php the_field('titleforarticles'); ?></h3></h3>
         </div><!-- CONTAINER -->
 
         <div class="row">
