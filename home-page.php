@@ -5,6 +5,8 @@
     ?>    
 <?php get_header();?>   <!--  Tells WordPress to include header.php -->
 
+<?php require_once('page_header.php'); ?>
+
     <section class="container-fluid aboutbg text-center">
         <div class="container">
         <h2><?php the_field('titleforaboutme'); ?></h2><!--  custom field for the aboutme content-->
