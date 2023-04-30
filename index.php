@@ -67,4 +67,3 @@
 
     </section>
     <?php get_footer();?>   <!-- Tells WordPress to include footer.php   -->
-   
