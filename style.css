@@ -8,6 +8,7 @@ Version: 1
 */ 
 
 .bg1{
+background-image:url("images/page_header_bg.jpg");
 background-size: cover;
 background-color: red;
 }
