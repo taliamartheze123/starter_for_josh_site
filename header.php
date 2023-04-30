@@ -70,7 +70,8 @@ wp_nav_menu( array(
             </nav>
 
             <div class="tag"></div>
-            <h1>Games Design For The Future</h1>
+            <h1>Games Design For The Future future</h1>
+
         </div>
         </div> <!-- container -->
 
