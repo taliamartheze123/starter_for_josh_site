@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <meta charset="<?php bloginfo('charset'); ?>">
+    <meta charset=<"?php bloginfo('charset'); ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="Description" content="Enter your description here" />
@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="responsive.css">
 
-    <title><?php
+    <title>< ?php
         if (function_exists('is_tag') && is_tag()) {
            single_tag_title("Tag Archive for &quot;"); echo '&quot; - '; }
         elseif (is_archive()) {
