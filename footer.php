@@ -9,7 +9,9 @@
 endif; ?>
 
                     <div class="col-md-6">
-                        <p>Terms and conditions</p>
+                        <!--<p>Terms and conditions</p>-->
+                        <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('footer-right') ) : 
+endif; ?>
                     </div>
 
                 </div><!-- row -->
