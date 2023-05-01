@@ -69,7 +69,7 @@ wp_nav_menu( array(
             </nav>
 
             <div class="smallpage-tag"></div>
-            <h1 class="smallpage-title">"><?php the_field('projectsheadertitle'); ?> </h1>
+            <h1 class="smallpage-title"><?php the_field('projectsheadertitle'); ?> </h1>
         </div>
         </div> <!-- container -->
 
